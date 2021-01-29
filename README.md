@@ -1,1 +1,1 @@
-## branch-protect
+# branch-protect
